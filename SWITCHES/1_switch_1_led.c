@@ -25,3 +25,35 @@ int main()                // main function
         }
     }
 }
+Explanation
+Pin Definitions
+SW_AL → 4 → Switch connected to P0.4.
+LED_AL → 8 → LED connected to P0.8.
+
+Configure LED as Output
+
+IODIR0 |= 1 << LED_AL; sets only P0.8 as output.
+
+Other pins remain unaffected because of |=.
+
+Reading the Switch
+
+IOPIN0 gives the current state of all Port0 pins.
+
+(IOPIN0 >> SW_AL) & 1 isolates the switch pin value.
+
+Many boards have active-low switches:
+
+Pressed → 0
+
+Released → 1
+
+Controlling the LED
+
+IOSET0 = 1 << LED_AL; → Makes P0.8 high → LED ON
+
+IOCLR0 = 1 << LED_AL; → Makes P0.8 low → LED OFF
+
+Looping
+
+while(1) continuously monitors the switch and updates the LED in real time.
