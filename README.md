@@ -44,9 +44,7 @@ If none of the switch is pressed, display “waiting for input” on the 1 st li
 screen with respect to 5 seconds.
 For example,
 1st line: A  D  H  O
-2nd line: A 65 41 101
-      
-After 5 sec next ...etc.
+2nd line: A 65 41 101 After 5 sec next ...etc.
 7. Write an ECP to display the binary value for A-Z, a-z & 0-9 on LCD screen with
 respect to 5 seconds.
 For example,
