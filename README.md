@@ -13,7 +13,10 @@ times, then clear the LCD screen
 4. Write an ECP display the basic time (HH:MM:SS) on LCD.
 Note: don’t use RTC registers
 5. Write an ECP to display the switch press count on LCD.
-     Part - 2
+
+
+
+Part - 2
 Interfacing 16X2 LCD:
 1. Write an ECP to take 20 numbers randomly in an array and find the prime numbers in
 the list of numbers to display on LCD.
