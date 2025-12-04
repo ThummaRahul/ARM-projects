@@ -32,6 +32,8 @@ This repository is focused on real-time embedded product development, not just a
 
 LPC2129 / LPC2148 Architecture
 
+![image alt](https://github.com/ThummaRahul/ARM-projects/blob/main/microcontrollers.jpg?raw=true)
+
 Register-Level Programming
 
 GPIO Control
@@ -75,6 +77,8 @@ I work with both simulation (Proteus) and real LPC2148 board daily:
 🔄 I2C (In Progress)
 
 🔄 CAN (Future Plan)
+
+![image alt](https://github.com/ThummaRahul/ARM-projects/blob/main/i2c-spi-uart-great-gif-for-understanding-these-protocols-v0-tcuzomh12hxd1.gif?raw=true)
 
 🛠 Tools & Software Stack
 
@@ -191,6 +195,8 @@ Hardware Enthusiast
 Feel free to connect with me:
 
 🔗 www.linkedin.com/in/rahulthumma002
+
+![image alt](https://github.com/ThummaRahul/C-PROGRAMMING/blob/main/Screenshot%202025-12-04%20064840.png?raw=true)
 
 Open to:
 ✅ Internships
