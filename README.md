@@ -76,7 +76,7 @@ I work with both simulation (Proteus) and real LPC2148 board daily:
 
 🔄 I2C 
 
-![image alt](https://github.com/ThummaRahul/ARM-projects/blob/main/i2c-spi-uart-great-gif-for-understanding-these-protocols-v0-tcuzomh12hxd1.gif?raw=true)
+![image alt](https://github.com/ThummaRahul/ARM-projects/blob/main/SWITCHES/ScreenRecording2025-12-07001016-ezgif.com-video-to-gif-converter.gif)
 
 🔄 CAN 
 
