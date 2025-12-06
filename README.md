@@ -72,11 +72,13 @@ I work with both simulation (Proteus) and real LPC2148 board daily:
 
 ✅ UART (Serial Communication)
 
-🔄 SPI (In Progress)
+🔄 SPI 
 
-🔄 I2C (In Progress)
+🔄 I2C 
 
-🔄 CAN (Future Plan)
+![image alt](https://github.com/ThummaRahul/ARM-projects/blob/main/i2c-spi-uart-great-gif-for-understanding-these-protocols-v0-tcuzomh12hxd1.gif?raw=true)
+
+🔄 CAN 
 
 ![image alt](https://github.com/ThummaRahul/ARM-projects/blob/main/i2c-spi-uart-great-gif-for-understanding-these-protocols-v0-tcuzomh12hxd1.gif?raw=true)
 
